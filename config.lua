@@ -4,7 +4,7 @@ _DUMP_ENV = false
 local currency = 'coin'
 
 global.config = {
-    -- adds a GUI listing the scenario features, the rules, and the details of the current map.
+    -- adds a GUI listing the scenario features, the rules, and the details of the current map!
     map_info = {
         enabled = true,
         -- The title of the map
